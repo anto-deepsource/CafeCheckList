@@ -15,7 +15,7 @@ enum Logger {
     
 }
 
-// MARK: - Methods
+// MARK: - Methods1
 
 extension Logger {
     
