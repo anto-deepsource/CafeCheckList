@@ -13,7 +13,7 @@ protocol StarImageChangeDelegate: AnyObject {
 
 class ActionManager {
     
-    // MARK: - Properties
+    // MARK: - Propertiess
     
     static var shared = ActionManager()
     
